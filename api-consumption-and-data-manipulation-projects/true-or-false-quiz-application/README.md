@@ -15,7 +15,14 @@ A simple and interactive True or False quiz application where users can test the
 
 ## Demo
 
-[Add a screenshot or GIF of your app here if applicable.]
+![Screenshot 2024-12-16 193117](https://github.com/user-attachments/assets/14f9aedb-dd5a-48fd-bc66-688a880bfa26)
+
+
+![Screenshot 2024-12-16 193218](https://github.com/user-attachments/assets/f26eea2b-beee-4760-9f54-5a0d27184881)
+
+![Screenshot 2024-12-16 193254](https://github.com/user-attachments/assets/febf64c7-805e-4a29-85ed-365c22b1502a)
+
+
 
 ---
 
