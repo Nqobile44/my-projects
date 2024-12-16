@@ -15,7 +15,7 @@ This project is a Python-based web scraper that fetches and displays the top upc
 
 ## Demo
 
-[Add a screenshot or GIF of the output or scraped data here if applicable.]
+https://github.com/user-attachments/assets/afc93e1e-4862-424a-a151-c668608c5f2a
 
 ---
 
