@@ -15,7 +15,7 @@ BrainBoost is a flashcard application designed to help users enhance their memor
 
 ## Demo
 
-[Add a screenshot or GIF of your app here if applicable.]
+https://github.com/user-attachments/assets/39bee7ed-b8c9-4c06-95db-c1267c193682
 
 ---
 
