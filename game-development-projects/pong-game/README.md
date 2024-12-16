@@ -15,7 +15,7 @@ A simple implementation of the classic Pong game. This project is a fun and inte
 
 ## Demo
 
-[Add a screenshot or GIF of your Pong game here.]
+https://github.com/user-attachments/assets/283f7f27-96fa-4afc-b483-e3d1fc5722fd
 
 ---
 
