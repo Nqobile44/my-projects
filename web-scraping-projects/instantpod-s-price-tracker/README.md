@@ -16,7 +16,13 @@ InstantPod Price Tracker is a tool designed to help users track the price of the
 
 ## Demo
 
-[Add a screenshot or GIF of your app here if applicable.]
+![Screenshot 2024-12-16 201249](https://github.com/user-attachments/assets/ceba2f3d-8727-4f3f-afed-040454a1f733)
+
+![Screenshot 2024-12-16 223923](https://github.com/user-attachments/assets/c85c112b-5358-4294-b38d-0792cc07846f)
+
+![Screenshot 2024-12-16 223947](https://github.com/user-attachments/assets/d5408dd6-4ed1-4685-98fe-5e97653a21c1)
+
+![Screenshot 2024-12-16 224037](https://github.com/user-attachments/assets/dc174a37-39a3-4cc8-b9d4-e080f4d29d93)
 
 ---
 
