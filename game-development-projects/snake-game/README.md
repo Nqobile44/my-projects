@@ -15,7 +15,7 @@ A classic Snake game built using Python. In this game, the player controls a sna
 
 ## Demo
 
-[Add a screenshot or GIF of your game here if applicable.]
+https://github.com/user-attachments/assets/003a1efa-118e-45a1-82cb-6a40d41913b4
 
 ---
 
