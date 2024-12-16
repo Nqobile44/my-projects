@@ -17,7 +17,7 @@ A secure and easy-to-use password manager application that helps you store, mana
 
 ## Demo
 
-[Add a screenshot or GIF of your app here if applicable.]
+https://github.com/user-attachments/assets/bee5dc88-7a63-4161-ba57-99f322f6dd56
 
 ---
 
