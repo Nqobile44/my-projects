@@ -28,7 +28,6 @@ product_name = " ".join([word.strip() for word in names_list])
 
 # Convert the price from a string (e.g., "$99.99") to a float for comparison
 price = float(price.replace("$", ""))
-print(price)  # Debugging: Print the extracted price
 
 
 def send_email():
@@ -40,7 +39,6 @@ def send_email():
     password = PASSWORD  # This should be stored securely in real applications
     email = MY_EMAIL
 
-    print("Im here")  # Debugging: Confirm the function is called
 
     # Set up the SMTP connection for sending the email
     with smtplib.SMTP("smtp.gmail.com") as connection:
@@ -52,6 +50,7 @@ def send_email():
             to_addrs= EMAIL,  # Recipient email
             msg=f"subject: price dropped\n\n{product_name}, 10 programs is now ${price}".encode('utf-8')
         )
+        print("Email sent")
 
 
 # Check if the product price is below the threshold of $100
