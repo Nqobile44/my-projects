@@ -14,9 +14,11 @@ This project is a fun and simple application that fetches random Kanye West quot
 
 ## Demo
 
-[Add a screenshot or GIF of your app here if applicable.]
-![Screenshot 2024-12-16 153111](https://g![Screenshot 2024-12-16 153232](https://github.com/user-attachments/assets/24f7b98b-7989-4c86-824b-5ef83354c356)
-ithub.com/user-attachments/assets/28d2f1b2-6bd1-47d1-84b8-86e609663697)
+![Screenshot 2024-12-16 153232](https://github.com/user-attachments/assets/df1f9956-d905-4384-bc2b-205010412547)
+
+
+![Screenshot 2024-12-16 153111](https://github.com/user-attachments/assets/1e5292f6-cbb4-4a60-81af-e95ae643c00d)
+
 
 ---
 
