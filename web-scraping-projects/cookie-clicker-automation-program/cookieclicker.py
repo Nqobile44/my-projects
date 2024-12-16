@@ -28,7 +28,6 @@ def buy_item(item: str):
 
     # Check if 500 seconds have elapsed since the start of the program
     if abs(int(main_starting_time - time.time())) <= 500:
-        print(abs(int(main_starting_time - time.time())))
         # Continue clicking the cookie if the time is within the limit
         cookie_clicker()
     else:
