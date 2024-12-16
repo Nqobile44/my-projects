@@ -16,7 +16,9 @@ An automated application that sends reminder emails to users about upcoming birt
 
 ## Demo
 
-[Add a screenshot or GIF of the application in action, if applicable.]
+![Screenshot 2024-12-16 193956](https://github.com/user-attachments/assets/2863057e-e8e9-4f6d-b0f1-f0f76269917b)
+
+![Screenshot 2024-12-16 194422](https://github.com/user-attachments/assets/3bc879f0-bac1-4f42-ae7f-498327677800)
 
 ---
 
