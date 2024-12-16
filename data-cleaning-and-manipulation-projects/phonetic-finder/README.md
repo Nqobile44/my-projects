@@ -14,7 +14,7 @@ The Phonetic Finder is an application that helps users find the phonetic alphabe
 
 ## Demo
 
-[Add a screenshot or GIF of your app here if applicable.]
+https://github.com/user-attachments/assets/40b164eb-66b3-4ceb-8bd5-c1f60cf37e13
 
 ---
 
