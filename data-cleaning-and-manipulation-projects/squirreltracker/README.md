@@ -16,7 +16,7 @@ SquirrelTracker is an application designed to help users track the presence of s
 
 ## Demo
 
-[Add a screenshot or GIF of your app here if applicable.]
+https://github.com/user-attachments/assets/29009a53-8d5d-4173-b22b-be0595f741f2
 
 ---
 
