@@ -15,7 +15,9 @@ This project automates the popular game **Cookie Clicker**. The automation scrip
 
 ## Demo
 
-[Add a screenshot or GIF of the automation in action here.]
+https://github.com/user-attachments/assets/d14a0d1b-6fe9-42c4-a142-b7f07ef46867
+
+https://github.com/user-attachments/assets/a9538117-608f-42fa-adfb-744683efe9f9
 
 ---
 
