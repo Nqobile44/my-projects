@@ -16,7 +16,7 @@ A simple and fun road crossing game where the player controls a character that m
 
 ## Demo
 
-[Add a screenshot or GIF of your game here if applicable.]
+https://github.com/user-attachments/assets/869fd222-6223-403c-9e28-544d90fb8012
 
 ---
 
