@@ -15,7 +15,7 @@ This project is a web scraper that fetches the list of the top 100 greatest movi
 
 ## Demo
 
-[Add a screenshot or GIF of the application running or an example of the scraped data.]
+https://github.com/user-attachments/assets/ea1cdf04-5400-4a49-a7b8-bdc28336725c
 
 ---
 
