@@ -1,6 +1,6 @@
 # BrainBoost Flashcards
 
-BrainBoost is a flashcard application designed to help users enhance their memory and learning. The app presents flashcards with questions and answers, and users can test themselves by flipping the cards to check their answers. It's perfect for memorizing facts, studying for exams, or learning new skills.
+BrainBoost is a flashcard application designed to help users enhance their memory and learning. The app presents flashcards with questions and answers, and users can test themselves by flipping the cards to check their answers. There is a csv file that stores 101 words, but takes out the words that the user got correct. It's perfect for memorizing facts, studying for exams, or learning new skills.
 
 ---
 
