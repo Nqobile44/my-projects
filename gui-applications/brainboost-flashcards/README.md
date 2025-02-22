@@ -31,4 +31,4 @@ https://github.com/user-attachments/assets/39bee7ed-b8c9-4c06-95db-c1267c193682
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/brainboost-flashcards.git
+   https://github.com/your-username/brainboost-flashcards.git
