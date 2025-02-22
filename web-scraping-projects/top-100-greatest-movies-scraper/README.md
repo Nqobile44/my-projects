@@ -33,4 +33,4 @@ https://github.com/user-attachments/assets/ea1cdf04-5400-4a49-a7b8-bdc28336725c
 
 1. Clone the repository:
    ```bash
-   https://github.com/your-username/top-100-greatest-movies-scraper.git
+   https://github.com/Nqobile44/my-projects/tree/master/web-scraping-projects/top-100-greatest-movies-scraper
