@@ -32,4 +32,4 @@ https://github.com/user-attachments/assets/b48753f7-5ed2-4618-86be-e0c4eb7e3838
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/automated-form-filler.git
+   https://github.com/Nqobile44/my-projects/tree/master/automation-and-alerts-projects/automated-form-filler
