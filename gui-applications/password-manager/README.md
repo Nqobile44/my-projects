@@ -35,4 +35,4 @@ https://github.com/user-attachments/assets/bee5dc88-7a63-4161-ba57-99f322f6dd56
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/password-manager.git
+   https://github.com/your-username/password-manager.git
