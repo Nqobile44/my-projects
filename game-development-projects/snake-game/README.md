@@ -30,4 +30,4 @@ https://github.com/user-attachments/assets/003a1efa-118e-45a1-82cb-6a40d41913b4
 
 1. Clone the repository:
    ```bash
-   https://github.com/your-username/snake-game.git
+   https://github.com/Nqobile44/my-projects/tree/master/game-development-projects/snake-game
