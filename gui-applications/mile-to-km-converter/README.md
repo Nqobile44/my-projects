@@ -29,4 +29,4 @@ https://github.com/user-attachments/assets/c43cef3a-be32-425e-be32-623aca0afb71
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/mile-to-km-converter.git
+   https://github.com/your-username/mile-to-km-converter.git
