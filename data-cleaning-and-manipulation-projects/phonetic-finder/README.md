@@ -30,4 +30,4 @@ https://github.com/user-attachments/assets/40b164eb-66b3-4ceb-8bd5-c1f60cf37e13
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/phonetic-finder.git
+   https://github.com/Nqobile44/my-projects/tree/master/data-cleaning-and-manipulation-projects/phonetic-finder
