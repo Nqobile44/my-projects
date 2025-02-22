@@ -36,4 +36,4 @@ An automated application that sends reminder emails to users about upcoming birt
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/automated-birthday-reminder.git
+   https://github.com/Nqobile44/my-projects/tree/master/automation-and-alerts-projects/automated-birthday-reminder-email-sender
