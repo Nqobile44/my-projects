@@ -30,4 +30,4 @@ https://github.com/user-attachments/assets/283f7f27-96fa-4afc-b483-e3d1fc5722fd
 
 1. Clone the repository:
    ```bash
-   https://github.com/Nqobile44/my-projects/edit/master/game-development-projects/pong-game
+   https://github.com/Nqobile44/my-projects/tree/master/game-development-projects/pong-game
