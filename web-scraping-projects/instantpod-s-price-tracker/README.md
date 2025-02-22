@@ -40,4 +40,4 @@ InstantPod Price Tracker is a tool designed to help users track the price of the
 
 1. Clone the repository:
    ```bash
-   https://github.com/your-username/instantpod-price-tracker.git
+   https://github.com/Nqobile44/my-projects/tree/master/web-scraping-projects/instantpod-s-price-tracker
