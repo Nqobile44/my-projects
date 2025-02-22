@@ -38,4 +38,4 @@ A simple and interactive True or False quiz application where users can test the
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/true-or-false-quiz.git
+   https://github.com/Nqobile44/my-projects/tree/master/api-consumption-and-data-manipulation-projects/true-or-false-quiz-application
