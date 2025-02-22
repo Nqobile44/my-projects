@@ -34,4 +34,4 @@ https://github.com/user-attachments/assets/29009a53-8d5d-4173-b22b-be0595f741f2
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/squirreltracker.git
+   https://github.com/Nqobile44/my-projects/tree/master/data-cleaning-and-manipulation-projects/squirreltracker
