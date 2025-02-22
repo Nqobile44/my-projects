@@ -32,4 +32,4 @@ https://github.com/user-attachments/assets/869fd222-6223-403c-9e28-544d90fb8012
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/road-crossing-game.git
+   https://github.com/your-username/road-crossing-game.git
