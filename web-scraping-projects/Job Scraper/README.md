@@ -25,5 +25,5 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/job-scraper.git
+   git clone https://github.com/Nqobile44/my-projects/tree/master/web-scraping-projects/Job%20Scraper
    cd job-scraper
