@@ -33,4 +33,4 @@ https://github.com/user-attachments/assets/a9538117-608f-42fa-adfb-744683efe9f9
 
 1. Clone the repository:
    ```bash
-   https://github.com/your-username/cookie-clicker-automation.git
+   https://github.com/Nqobile44/my-projects/tree/master/web-scraping-projects/cookie-clicker-automation-program
