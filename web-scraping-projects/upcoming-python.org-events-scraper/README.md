@@ -33,4 +33,4 @@ https://github.com/user-attachments/assets/afc93e1e-4862-424a-a151-c668608c5f2a
 
 1. Clone the repository:
    ```bash
-   https://github.com/your-username/top-upcoming-python-events-scraper.git
+   https://github.com/Nqobile44/my-projects/tree/master/web-scraping-projects/upcoming-python.org-events-scraper
