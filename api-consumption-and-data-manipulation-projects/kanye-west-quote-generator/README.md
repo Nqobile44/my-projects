@@ -34,4 +34,4 @@ This project is a fun and simple application that fetches random Kanye West quot
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/kanye-west-quote-generator.git
+   https://github.com/Nqobile44/my-projects/tree/master/api-consumption-and-data-manipulation-projects/kanye-west-quote-generator
