@@ -26,3 +26,12 @@
 1. **Clone the repository:**
    ```bash
    https://github.com/Nqobile44/my-projects/tree/master/web-scraping-projects/Job%20Scraper
+
+## Demo
+
+
+
+https://github.com/user-attachments/assets/1a9df31c-43a4-4ef3-b37b-b3f3818bf9fb
+
+
+
