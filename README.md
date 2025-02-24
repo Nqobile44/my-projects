@@ -1,5 +1,6 @@
 # Excel To JSON
 
+
 ## 📊 Excel Data Extraction and JSON Conversion
 
 This project demonstrates my ability to work with Excel files using Python and convert the extracted data into a structured JSON format. The program reads an Excel file cell by cell, extracts relevant information, processes it, and saves the output as a clean JSON file.
