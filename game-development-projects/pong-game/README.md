@@ -23,6 +23,7 @@ https://github.com/user-attachments/assets/283f7f27-96fa-4afc-b483-e3d1fc5722fd
 
 - **Python**: Core programming language for the game.
 - **Turtle**: For create Graphical User Interface.
+- **OOP**: For organizing code.
 
 ---
 
