@@ -26,12 +26,10 @@ This project is a fun and simple application that fetches random Kanye West quot
 
 - **Python**: Core programming language.
 - **Requests**: For making HTTP requests to the Kanye West Quotes API.
-- [Add any additional libraries or frameworks used.]
+- **Tkinter**: For Graphical User Interface.
 
 ---
 
 ## Installation
 
-1. Clone the repository:
-   ```bash
    https://github.com/Nqobile44/my-projects/tree/master/api-consumption-and-data-manipulation-projects/kanye-west-quote-generator
