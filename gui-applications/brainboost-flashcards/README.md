@@ -26,4 +26,4 @@ https://github.com/user-attachments/assets/39bee7ed-b8c9-4c06-95db-c1267c193682
 ---
 
 ## Installation
-   https://github.com/your-username/brainboost-flashcards.git
+   https://github.com/Nqobile44/my-projects/tree/master/gui-applications/brainboost-flashcards
