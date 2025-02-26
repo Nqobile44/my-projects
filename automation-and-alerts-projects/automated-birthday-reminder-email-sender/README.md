@@ -27,13 +27,8 @@ An automated application that sends reminder emails to users about upcoming birt
 - **Python**: Core programming language.
 - **smtplib**: For sending emails via SMTP.
 - **email.mime**: For crafting email messages with different content types (plain text, HTML).
-- **schedule** (optional): For scheduling tasks to run periodically.
-- [Add any other libraries or technologies used.]
 
 ---
 
 ## Installation
-
-1. Clone the repository:
-   ```bash
    https://github.com/Nqobile44/my-projects/tree/master/automation-and-alerts-projects/automated-birthday-reminder-email-sender
