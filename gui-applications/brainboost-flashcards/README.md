@@ -9,7 +9,6 @@ BrainBoost is a flashcard application designed to help users enhance their memor
 - Create and manage custom flashcards with questions and answers.
 - User-friendly interface for easy card flipping and navigation.
 - Track progress and review cards based on difficulty.
-- Option to add categories to organize flashcards by topics.
 
 ---
 
@@ -22,13 +21,9 @@ https://github.com/user-attachments/assets/39bee7ed-b8c9-4c06-95db-c1267c193682
 ## Technologies Used
 
 - **Python**: Core programming language for the application.
-- **Tkinter** (if you used it for the GUI): For creating the graphical user interface.
-- [Any additional libraries you used, like SQLite, JSON handling, etc.]
+- **Tkinter**: For creating the graphical user interface.
 
 ---
 
 ## Installation
-
-1. Clone the repository:
-   ```bash
    https://github.com/your-username/brainboost-flashcards.git
