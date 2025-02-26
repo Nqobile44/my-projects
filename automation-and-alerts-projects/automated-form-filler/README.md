@@ -23,13 +23,9 @@ https://github.com/user-attachments/assets/b48753f7-5ed2-4618-86be-e0c4eb7e3838
 
 - **Python**: Core programming language for the application.
 - **Selenium**: Web automation tool used to interact with web pages.
-- **WebDriver**: Required for Selenium to interact with the browser (e.g., ChromeDriver, GeckoDriver).
-- [Add any additional libraries you used, such as `time` for delays or `pandas` if using data from CSV files.]
+- **WebDriver**: Required for Selenium to interact with the browser (e.g., EdgeDriver).
 
 ---
 
 ## Installation
-
-1. Clone the repository:
-   ```bash
    https://github.com/Nqobile44/my-projects/tree/master/automation-and-alerts-projects/automated-form-filler
