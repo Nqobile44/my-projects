@@ -9,7 +9,7 @@ A classic Snake game built using Python. In this game, the player controls a sna
 - Classic Snake gameplay with simple controls.
 - Game over when the snake hits the wall or itself.
 - Score tracking to show how long the snake has grown.
-- Simple, interactive interface using Python's `pygame` library.
+- Simple, interactive interface using Python's `turtle` library.
 
 ---
 
@@ -22,12 +22,9 @@ https://github.com/user-attachments/assets/003a1efa-118e-45a1-82cb-6a40d41913b4
 ## Technologies Used
 
 - **Python**: Core programming language for the game.
-- **Pygame**: Used for creating the game interface, handling graphics, and user input.
+- **Turtle**: Used for creating the game interface, handling graphics, and user input.
 
 ---
 
 ## Installation
-
-1. Clone the repository:
-   ```bash
-   https://github.com/Nqobile44/my-projects/tree/master/game-development-projects/snake-game
+ https://github.com/Nqobile44/my-projects/tree/master/game-development-projects/snake-game
