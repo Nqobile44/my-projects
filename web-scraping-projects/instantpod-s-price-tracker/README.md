@@ -30,13 +30,9 @@ InstantPod Price Tracker is a tool designed to help users track the price of the
 
 - **Python**: Core programming language for the application.
 - **BeautifulSoup**: For web scraping to extract price data from product pages.
-- **Selenium**: If you're using Selenium for dynamic content scraping.
 - **SMTP**: For email notifications when prices drop.
 
 ---
 
 ## Installation
-
-1. Clone the repository:
-   ```bash
    https://github.com/Nqobile44/my-projects/tree/master/web-scraping-projects/instantpod-s-price-tracker
