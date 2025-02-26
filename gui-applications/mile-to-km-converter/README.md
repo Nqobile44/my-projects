@@ -21,12 +21,9 @@ https://github.com/user-attachments/assets/c43cef3a-be32-425e-be32-623aca0afb71
 ## Technologies Used
 
 - **Python**: Core programming language for the application.
-- [Any other libraries you used, if applicable]
+- **Tkinter**: Library handling Graphical User Interface.
 
 ---
 
 ## Installation
-
-1. Clone the repository:
-   ```bash
    https://github.com/your-username/mile-to-km-converter.git
