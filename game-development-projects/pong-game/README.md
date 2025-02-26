@@ -22,12 +22,9 @@ https://github.com/user-attachments/assets/283f7f27-96fa-4afc-b483-e3d1fc5722fd
 ## Technologies Used
 
 - **Python**: Core programming language for the game.
-- **Pygame**: Used for rendering the game window and handling game logic, including drawing objects and detecting collisions.
+- **Turtle**: For create Graphical User Interface.
 
 ---
 
 ## Installation
-
-1. Clone the repository:
-   ```bash
    https://github.com/Nqobile44/my-projects/tree/master/game-development-projects/pong-game
