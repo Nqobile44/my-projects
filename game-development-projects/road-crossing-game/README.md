@@ -9,7 +9,6 @@ A simple and fun road crossing game where the player controls a character that m
 - Interactive gameplay where the player moves a character across a busy road.
 - Randomly generated vehicles that move at different speeds.
 - Increasing difficulty as the player progresses.
-- Simple controls (e.g., arrow keys or WASD) to move the character.
 - Score tracking to monitor the player's progress.
 
 ---
@@ -23,13 +22,9 @@ https://github.com/user-attachments/assets/869fd222-6223-403c-9e28-544d90fb8012
 ## Technologies Used
 
 - **Python**: Core programming language for the game.
-- **Pygame**: Library used for creating 2D games in Python.
-- [Any other libraries or tools used]
+- **Turtle**: Library used for creating 2D games in Python.
 
 ---
 
 ## Installation
-
-1. Clone the repository:
-   ```bash
    https://github.com/Nqobile44/my-projects/tree/master/game-development-projects/road-crossing-game
