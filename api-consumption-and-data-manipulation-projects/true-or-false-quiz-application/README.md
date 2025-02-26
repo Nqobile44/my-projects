@@ -29,13 +29,10 @@ A simple and interactive True or False quiz application where users can test the
 ## Technologies Used
 
 - **Python**: Core programming language for the application.
-- **Tkinter** (optional): If you're using a GUI, you can mention it here.
-- [Any additional libraries used]
+- **Tkinter**: For Graphical User Interface.
+- **API**: For getting true or false question.
 
 ---
 
-## Installation
-
-1. Clone the repository:
-   ```bash
+## Installation 
    https://github.com/Nqobile44/my-projects/tree/master/api-consumption-and-data-manipulation-projects/true-or-false-quiz-application
