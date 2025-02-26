@@ -25,7 +25,7 @@ https://github.com/user-attachments/assets/a9538117-608f-42fa-adfb-744683efe9f9
 
 - **Python**: Core programming language used to create the automation script.
 - **Selenium**: A browser automation library used to interact with the Cookie Clicker web app.
-- **WebDriver**: A browser driver (such as ChromeDriver) needed for Selenium to control the browser.
+- **WebDriver**: A browser driver (such as EdgeDriver) needed for Selenium to control the browser.
 
 ---
 
