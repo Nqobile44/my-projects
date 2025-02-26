@@ -22,7 +22,6 @@ https://github.com/user-attachments/assets/40b164eb-66b3-4ceb-8bd5-c1f60cf37e13
 
 - **Python**: Core programming language.
 - **Tkinter** (optional): If you're using a GUI to display the phonetic conversions, mention it here.
-- [Any additional libraries you used, such as `nltk`, `phonetics`, etc.]
 
 ---
 
