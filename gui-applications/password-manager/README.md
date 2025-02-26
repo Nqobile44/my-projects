@@ -28,4 +28,4 @@ https://github.com/user-attachments/assets/bee5dc88-7a63-4161-ba57-99f322f6dd56
 ---
 
 ## Installation
-   https://github.com/your-username/password-manager.git
+   https://github.com/Nqobile44/my-projects/tree/master/gui-applications/password-manager
