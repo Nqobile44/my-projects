@@ -23,15 +23,9 @@ https://github.com/user-attachments/assets/29009a53-8d5d-4173-b22b-be0595f741f2
 ## Technologies Used
 
 - **Python**: Core programming language for the application.
-- **SQLite** (or another database): For storing squirrel sighting data.
-- **Matplotlib** (optional): If you're visualizing the data, this library can be used for plotting.
-- **Flask/Django** (optional): If you're using a web framework for the app.
-- [Any other libraries or frameworks used]
+- **Pandas**: For loading file.
 
 ---
 
 ## Installation
-
-1. Clone the repository:
-   ```bash
    https://github.com/Nqobile44/my-projects/tree/master/data-cleaning-and-manipulation-projects/squirreltracker
