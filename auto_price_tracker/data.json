@@ -1,0 +1,22 @@
+[
+    {
+        "name": "AirPods", 
+        "url": "https://www.amazon.co.za/Apple-Headphones-Cancellation-Transparency-Personalised/dp/B0DGJ87WZQ/ref=sr_1_3",
+        "price": 2799
+    },
+    {
+        "name": "PS5",
+        "url": "https://www.amazon.co.za/PlayStation-Sony-5-SLIM-DISC/dp/B0CQPMYTVM/ref=sr_1_2",
+        "price": 12092
+    },
+    {
+        "name": "iPhone16",
+        "url": "https://www.amazon.co.za/Apple-iPhone-Pro-Max-256/dp/B0DGHZ1MC2/ref=sr_1_2",
+        "price": 27999
+    },
+    {
+        "name": "MateBook",
+        "url": "https://www.amazon.co.za/Huawei-MateBook-Intel-i5-13420H-Laptop/dp/B0F1KWFK1B/ref=sr_1_1",
+        "price": 15999
+    }
+]
